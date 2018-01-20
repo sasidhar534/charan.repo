@@ -3,3 +3,5 @@ a file
 created 
 to practice the 
 github
+entered to first
+txt file in charan repo
